@@ -1,0 +1,7 @@
+Commands:
+
+-> git init  //initalizes git
+-> git status  //shows which files are not in staging area 
+-> git add  //adds/stages a file into staging area
+-> git add .  //add/stages all files of working directory to staging area 
+-> git commit -m  //commits the files to version control and -m flag is used to give a message of what changes we have made
